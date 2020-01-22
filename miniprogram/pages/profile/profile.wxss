@@ -1,0 +1,23 @@
+.container{
+  position: relative;
+  text-align: center;
+  background: red;
+  opacity: .5
+    }
+.profile-img{
+  width: 200rpx;
+  height: 200rpx;
+  display: block;
+  overflow: hidden;
+  border-radius: 50%;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 60rpx);
+}
+.name{
+  font-size: 36rpx;
+  color: #fff;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 270rpx);
+}

@@ -1,0 +1,6 @@
+<view class='container'>
+<view class='profile-img'>
+<open-data type='userAvatarUrl' class='head' />
+</view>
+<open-data type='userNickName' class='name' />
+</view>
